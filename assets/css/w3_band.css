@@ -96,7 +96,6 @@ html {
 #slider {
   margin-top: var(--height-hd);
   padding-top: 50%;
-  background: url("/HTML/assets/img/ny_w3.jpg") top center / cover no-repeat;
   position: relative;
 }
 #slider .text-content {
