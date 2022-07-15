@@ -17,4 +17,16 @@
   #header .menu-mobile-button {
     display: block;
   }
+  .contact-section .contact-body,
+  .tour-section #tour-place,
+  .about-section .member-list {
+    flex-direction: column;
+  }
+  .tour-section #tour-place .place-list,
+  .about-section .member-item {
+    width: 100%;
+  }
+  .tour-section #tour-place .place-list {
+    margin-bottom: 20px;
+  }
 }

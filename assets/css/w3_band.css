@@ -149,6 +149,9 @@ html {
   justify-content: space-around;
   padding: 32px 0;
 }
+.about-section .member-item {
+  width: 33.333%;
+}
 .about-section .member-item .member-name {
   margin: 15px 0;
 }
@@ -198,6 +201,7 @@ html {
 }
 .tour-section #tour-place .place-list {
   padding: 0 8px;
+  width: 33.333%;
 }
 .tour-section #tour-place .place-body {
   background-color: #fff;
